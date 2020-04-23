@@ -23,3 +23,4 @@
 hs_err_pid*
 
 /onlinelibrary/target/
+/angular-library/node_modules/
